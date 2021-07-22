@@ -1,0 +1,20 @@
+2021-07-18 15:23:39.368845 >>> {command: get_health}
+2021-07-18 15:23:39.454445 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-07-18 15:23:39.458779 >>> {command: request_data, timeout: 60000}
+2021-07-18 15:23:43.412895 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-07-18 15:24:43.434624 >>> {command: get_health}
+2021-07-18 15:24:43.567046 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-07-18 15:24:43.578054 >>> {command: request_data, timeout: 60000}
+2021-07-18 15:24:47.526120 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-07-18 15:25:38.073922 >>> {command: get_health}
+2021-07-18 15:25:38.162791 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-07-18 15:25:38.168492 >>> {command: request_data, timeout: 60000}
+2021-07-18 15:25:41.949150 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-07-19 14:27:36.872625 >>> {command: get_health}
+2021-07-19 14:27:37.077579 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-07-19 14:27:37.083632 >>> {command: request_data, timeout: 60000}
+2021-07-19 14:27:44.031342 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-07-19 14:29:54.449369 >>> {command: get_health}
+2021-07-19 14:29:55.045991 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-07-19 14:29:55.052508 >>> {command: request_data, timeout: 60000}
+2021-07-19 14:30:02.159368 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}

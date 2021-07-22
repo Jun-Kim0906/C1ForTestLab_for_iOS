@@ -1,0 +1,4 @@
+#Tue Jul 20 11:20:58 YAKT 2021
+base.0=/Users/jun/Desktop/flutter_testing/test_classworks/class1_for_integration_test/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

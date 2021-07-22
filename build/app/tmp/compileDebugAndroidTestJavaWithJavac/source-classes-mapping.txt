@@ -1,0 +1,4 @@
+com/c1Integration/class1_for_integration_test/MainActivityTest.java
+ com.c1Integration.class1_for_integration_test.MainActivityTest
+com/c1Integration/class1_for_integration_test/test/BuildConfig.java
+ com.c1Integration.class1_for_integration_test.test.BuildConfig

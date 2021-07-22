@@ -1,0 +1,16 @@
+#move to root directory
+pushd android
+./gradlew app:assembleAndroidTest
+./gradlew app:assembleDebug -Ptarget="$FCI_FCI_BUILD_DIR/integration_test/foo_test.dart"
+popd
+
+echo $GCLOUD_KEY_FILE | base64 --decode > ./gcloud_key_file.json
+
+gcloud auth activate-service-account --key-file=gcloud_key_file.json
+gcloud --quiet config set project flutter-final-test-2021-01
+
+gcloud firebase test android run \
+  --type instrumentation \
+  --app build/app/outputs/apk/debug/app-debug.apk \
+  --test build/app/outputs/apk/androidTest/debug/app-debug-androidTest.apk \
+  --timeout 2m

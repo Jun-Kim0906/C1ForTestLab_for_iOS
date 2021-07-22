@@ -1,0 +1,6 @@
+framework module Pods_class1_for_integration_testTests {
+  umbrella header "Pods-class1_for_integration_testTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

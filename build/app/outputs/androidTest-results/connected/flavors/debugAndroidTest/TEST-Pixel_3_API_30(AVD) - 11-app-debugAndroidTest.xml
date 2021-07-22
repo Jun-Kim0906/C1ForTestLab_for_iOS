@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.c1Integration.class1_for_integration_test.MainActivityTest" tests="5" failures="0" errors="0" skipped="0" time="12.655" timestamp="2021-07-20T00:31:23" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_3_API_30(AVD) - 11" />
+    <property name="flavor" value="debugAndroidTest" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="Set AppBar Background Color" classname="com.c1Integration.class1_for_integration_test.MainActivityTest" time="1.425" />
+  <testcase name="Set AppBar Title to Name" classname="com.c1Integration.class1_for_integration_test.MainActivityTest" time="0.0" />
+  <testcase name="Icon is yellow and star, not red and heart" classname="com.c1Integration.class1_for_integration_test.MainActivityTest" time="0.0" />
+  <testcase name='Icon is in "leading" position' classname="com.c1Integration.class1_for_integration_test.MainActivityTest" time="0.0" />
+  <testcase name="All the example codes must be completed" classname="com.c1Integration.class1_for_integration_test.MainActivityTest" time="0.029" />
+</testsuite>

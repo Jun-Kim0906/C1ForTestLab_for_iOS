@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/c1Integration/class1_for_integration_test/BuildConfig.java
+ com.c1Integration.class1_for_integration_test.BuildConfig

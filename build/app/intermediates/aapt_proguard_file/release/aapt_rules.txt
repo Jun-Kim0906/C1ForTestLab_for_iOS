@@ -1,0 +1,2 @@
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class com.c1Integration.class1_for_integration_test.MainActivity { <init>(); }

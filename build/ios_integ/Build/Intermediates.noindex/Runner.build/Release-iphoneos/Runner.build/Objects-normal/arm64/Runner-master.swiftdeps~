@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "4eca550008af19b284892db838b4e046"
+build_time: [1626595338, 287307000]
+inputs:
+  "/Users/jun/Desktop/flutter_testing/test_classworks/class1_for_integration_test/ios/Runner/AppDelegate.swift": [9223372036, 854775807]

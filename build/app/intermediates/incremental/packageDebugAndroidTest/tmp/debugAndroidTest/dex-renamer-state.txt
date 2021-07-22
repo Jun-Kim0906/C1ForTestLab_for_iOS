@@ -1,0 +1,4 @@
+#Tue Jul 20 09:15:06 YAKT 2021
+base.0=/Users/jun/Desktop/flutter_testing/test_classworks/class1_for_integration_test/build/app/intermediates/dex/debugAndroidTest/mergeDexDebugAndroidTest/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
